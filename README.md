@@ -11,3 +11,5 @@ fonte:
 
 https://en.wikipedia.org/wiki/Hill_climbing
 
+![](https://img.shields.io/badge/python-3.9-informational?style=flat&logo=python&logoColor=white&color=blue)
+
