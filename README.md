@@ -7,9 +7,9 @@ Caracteristica:
  - Se não, escolhe um novo ponto na vizinhança
  - Até não ter mais como subir ou acabar o tempo
 
-[Expl](https://en.wikipedia.org/wiki/Hill_climbing)
+[Info](https://en.wikipedia.org/wiki/Hill_climbing)
 
 
 
-![](https://img.shields.io/badge/python-3.9-informational?style=flat&logo=python&logoColor=white&color=blue)
+![](https://img.shields.io/badge/python-3.9-informational?style=flat&logo=python&logoColor=white&color=blue) ![](https://img.shields.io/badge/pandas-1.3.0-informational?style=flat&logoColor=white&color=blue)
 
